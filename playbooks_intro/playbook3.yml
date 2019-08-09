@@ -1,0 +1,7 @@
+---
+- hosts: localhost
+  tasks:
+  - file:
+      path: "/tmp/random_number"
+      # TODO
+
